@@ -1,0 +1,5 @@
+Bart
+langchain
+streamlit
+python-dotenv
+PyPDF2
